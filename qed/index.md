@@ -1,5 +1,5 @@
 ---
-layout: neurips21
+layout: qed
 title: "AI for Science: Mind the Gaps"
 permalink: /qed
 
