@@ -4,7 +4,8 @@ title: "AI for Science: Mind the Gaps"
 permalink: /qed
 
 
-## QED
+
+QED
 
 xxxx
 
