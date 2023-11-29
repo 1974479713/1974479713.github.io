@@ -1,6 +1,6 @@
 ---
 layout: qed
-title: "AI for Science: Progress and Promises"
+title: "PMO"
 permalink: /qed
 
 
@@ -186,23 +186,7 @@ For centuries, the method of discovery—the fundamental practice of science tha
 
 - **Accelerating drug discovery pipeline**
 
-## Attendance
 
-We welcome people with diverse background and level of experience to attend our workshop. The attendance is not contingent upon paper submission. Consider to apply for a travel award.
-
-
-
-## Follow Us
-
-Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/ai4sciencecommunity/shared_invite/zt-ztw3600x-TR5EdX~NnnlW7g3lkM8HnQ) for active discussions.
-
-# Invited Talks (In alphabetical order)
-
-{% include team.html id="speakers" %}
-
-# Panel: Landing of AI for Science and future of AI for Science in industry
-
-{% include team.html id="Panelist" %}
 
 
 # Schedule
@@ -232,49 +216,4 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 
 
-# Tentative Important Dates (Anywhere on Earth)
-
-- Abstract Deadline: Sep 25, 2022
-- Submission Deadline: Oct 02, 2022
-- Author Notification: Oct 22, 2022
-- Travel Award Application: Nov 7st, 2022
-- Conference Date: Nov 26 -- Dec 4, 2022
-- Workshop Date: 08:00 AM -- 06:00 PM, Dec 2, 2022
-
-
-## Submissions 
-
-Please submit your paper in [Openreview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/AI4Science). Our workshop is **nonarchival**, the accepted papers will be posted on our website. 
-
-
-# Organizers and Contact
-
-Organizers are in the alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
-
-## Student Organizers (alphabetical order)
-
-{% include team.html id="StudentOrganizers" %}
-
-## Senior Organizers 
-
-{% include team.html id="ProfessorOrganizers" %}
-
-
-<!-- <ul>
-{% for p in page.StudentOrganizers %}
-<li>
-<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
-</li>
-{% endfor %}
-</ul>
-
-
-
-<ul>
-{% for p in page.ProfessorOrganizers %}
-<li>
-<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
-</li>
-{% endfor %}
-</ul> -->
 
