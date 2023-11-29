@@ -172,26 +172,10 @@ ProfessorOrganizers:
 
 ---
 
-# About
-
-For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting edge of AI going forward. We are particularly interested in the following topics:
-
-- **Solving grand challenges in structural biology**
-
-- **Scaling dynamical system modeling to millions of particles**
-
-- **Visualizing the unimaginable black hole**
-
-- **Incorporating physical insights to AI methods**
-
-- **Accelerating drug discovery pipeline**
+# QED Leaderboard
 
 
 
-
-# Schedule
-
-08:00 AM – 06:00 PM (Central Time), Dec 2, 2022
 
 | Event | | Time |
 | :--- | --- | :--- |
